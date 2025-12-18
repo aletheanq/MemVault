@@ -35,7 +35,9 @@ Please follow these steps:
 We will review and merge as soon as possible!
 
 ## License
-MIT License -- See LICENSE for more information.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+SPDX-License-Identifier: MIT
 
 ## Acknowledgements
 Built by Egerie Kung and Sruti Nallakukkala. Inspired by Faraz and Neelofar Tamboli's work on TalkMotion and their drive to help humanity through bridging gaps for communication, helping us understand that there is a path for MemVault; the PBS Kids show Arthur, Season 15, Episode 6: "Grandpa Dave's Memory Album"; and Dr. Xiaoyu Wang's (Deputy Principal of the Princeton International School of Mathematics and Science) passion for understanding Psychology and Behavioral Science to help her son.
