@@ -9,7 +9,7 @@ However, dementia is not the only cause of memory-loss. Memory-loss can occur be
 As the number of people experiencing memory-related problems increase, MemVault assists in the user's understanding of the contexts being referred to in conversation or in the actions they perform throughout the day through audible notifications prompted by their voices. The application/device detects confusion and/or forgetfulness before sending audible notifications.
 
 ## Solution
-MemVault provides context reminders in real-time by using always-on recording, offline summarization, and audible notifications to help users understand references to different moments of their lives and/or the actions they are performing at the moment. 
+MemVault provides context reminders in real-time by using always-on recording, offline summarization, and audible notifications to help users understand references to different moments of their lives and/or the actions they are performing. 
 
 ## Features
 - Always-on recording 
