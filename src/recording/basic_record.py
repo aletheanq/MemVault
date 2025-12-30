@@ -16,7 +16,7 @@ for i in range (int(user_recording_input)):
     my_recording = sd.rec(int(seconds*fs), samplerate=fs, channels=1)
     sd.wait() # Program waits until the recording is finished
 
-    # Provides the size details of the audio recording
+    # Provides the size details of the audio recording in a tuple format
     print ("Recording done. Here's the size details of the audio recording: ", my_recording.shape)
 
     # Converts the NumPy array into a .wav audio file
