@@ -6,7 +6,7 @@ import soundfile as sf
 
 # Assigning variables for constant values used in this file
 fs = 44100 # Frames per second this file is recording audio at, a standard rate of 44.1 khZ
-seconds = 10 # The maximum seconds a person can record audio, changes according to experimentation
+seconds = 10 # The maximum seconds a person can record audio, changing according to experimentation
 
 user_recording_input = input("How many times would you like to provide a recording file?")
 
